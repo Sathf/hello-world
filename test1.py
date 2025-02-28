@@ -6,3 +6,4 @@ for el1, el2 in zip(a, b):
 	c.append(el1+el2)
 
 print(c)
+print("hello")
